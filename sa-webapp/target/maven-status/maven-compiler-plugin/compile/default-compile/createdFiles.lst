@@ -1,0 +1,4 @@
+edu\sa\web\SentimentController.class
+edu\sa\web\dto\SentenceDto.class
+edu\sa\web\dto\SentimentDto.class
+edu\sa\web\SentimentAnalysisWebApplication.class

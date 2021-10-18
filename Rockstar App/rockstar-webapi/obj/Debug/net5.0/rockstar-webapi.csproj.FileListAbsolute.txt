@@ -1,0 +1,142 @@
+/Users/deepgamit/NEU/Fall 2021/CSYE 7225 DevOps/Assignment 2/rockstar-webapi/bin/Debug/net5.0/appsettings.Development.json
+/Users/deepgamit/NEU/Fall 2021/CSYE 7225 DevOps/Assignment 2/rockstar-webapi/bin/Debug/net5.0/appsettings.json
+/Users/deepgamit/NEU/Fall 2021/CSYE 7225 DevOps/Assignment 2/rockstar-webapi/bin/Debug/net5.0/rockstar-webapi.deps.json
+/Users/deepgamit/NEU/Fall 2021/CSYE 7225 DevOps/Assignment 2/rockstar-webapi/bin/Debug/net5.0/rockstar-webapi.runtimeconfig.json
+/Users/deepgamit/NEU/Fall 2021/CSYE 7225 DevOps/Assignment 2/rockstar-webapi/bin/Debug/net5.0/rockstar-webapi.runtimeconfig.dev.json
+/Users/deepgamit/NEU/Fall 2021/CSYE 7225 DevOps/Assignment 2/rockstar-webapi/bin/Debug/net5.0/rockstar-webapi.dll
+/Users/deepgamit/NEU/Fall 2021/CSYE 7225 DevOps/Assignment 2/rockstar-webapi/bin/Debug/net5.0/ref/rockstar-webapi.dll
+/Users/deepgamit/NEU/Fall 2021/CSYE 7225 DevOps/Assignment 2/rockstar-webapi/bin/Debug/net5.0/rockstar-webapi.pdb
+/Users/deepgamit/NEU/Fall 2021/CSYE 7225 DevOps/Assignment 2/rockstar-webapi/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Users/deepgamit/NEU/Fall 2021/CSYE 7225 DevOps/Assignment 2/rockstar-webapi/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/deepgamit/NEU/Fall 2021/CSYE 7225 DevOps/Assignment 2/rockstar-webapi/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/deepgamit/NEU/Fall 2021/CSYE 7225 DevOps/Assignment 2/rockstar-webapi/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/deepgamit/NEU/Fall 2021/CSYE 7225 DevOps/Assignment 2/rockstar-webapi/obj/Debug/net5.0/rockstar-webapi.csproj.AssemblyReference.cache
+/Users/deepgamit/NEU/Fall 2021/CSYE 7225 DevOps/Assignment 2/rockstar-webapi/obj/Debug/net5.0/rockstar-webapi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deepgamit/NEU/Fall 2021/CSYE 7225 DevOps/Assignment 2/rockstar-webapi/obj/Debug/net5.0/rockstar-webapi.AssemblyInfoInputs.cache
+/Users/deepgamit/NEU/Fall 2021/CSYE 7225 DevOps/Assignment 2/rockstar-webapi/obj/Debug/net5.0/rockstar-webapi.AssemblyInfo.cs
+/Users/deepgamit/NEU/Fall 2021/CSYE 7225 DevOps/Assignment 2/rockstar-webapi/obj/Debug/net5.0/rockstar-webapi.csproj.CoreCompileInputs.cache
+/Users/deepgamit/NEU/Fall 2021/CSYE 7225 DevOps/Assignment 2/rockstar-webapi/obj/Debug/net5.0/rockstar-webapi.MvcApplicationPartsAssemblyInfo.cs
+/Users/deepgamit/NEU/Fall 2021/CSYE 7225 DevOps/Assignment 2/rockstar-webapi/obj/Debug/net5.0/rockstar-webapi.MvcApplicationPartsAssemblyInfo.cache
+/Users/deepgamit/NEU/Fall 2021/CSYE 7225 DevOps/Assignment 2/rockstar-webapi/obj/Debug/net5.0/staticwebassets/rockstar-webapi.StaticWebAssets.Manifest.cache
+/Users/deepgamit/NEU/Fall 2021/CSYE 7225 DevOps/Assignment 2/rockstar-webapi/obj/Debug/net5.0/staticwebassets/rockstar-webapi.StaticWebAssets.xml
+/Users/deepgamit/NEU/Fall 2021/CSYE 7225 DevOps/Assignment 2/rockstar-webapi/obj/Debug/net5.0/scopedcss/bundle/rockstar-webapi.styles.css
+/Users/deepgamit/NEU/Fall 2021/CSYE 7225 DevOps/Assignment 2/rockstar-webapi/obj/Debug/net5.0/rockstar-webapi.RazorTargetAssemblyInfo.cache
+/Users/deepgamit/NEU/Fall 2021/CSYE 7225 DevOps/Assignment 2/rockstar-webapi/obj/Debug/net5.0/rockstar-webapi.csproj.CopyComplete
+/Users/deepgamit/NEU/Fall 2021/CSYE 7225 DevOps/Assignment 2/rockstar-webapi/obj/Debug/net5.0/rockstar-webapi.dll
+/Users/deepgamit/NEU/Fall 2021/CSYE 7225 DevOps/Assignment 2/rockstar-webapi/obj/Debug/net5.0/ref/rockstar-webapi.dll
+/Users/deepgamit/NEU/Fall 2021/CSYE 7225 DevOps/Assignment 2/rockstar-webapi/obj/Debug/net5.0/rockstar-webapi.pdb
+/Users/deepgamit/NEU/Fall 2021/CSYE 7225 DevOps/Assignment 2/rockstar-webapi/obj/Debug/net5.0/rockstar-webapi.genruntimeconfig.cache
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 2/rockstar-webapi/bin/Debug/net5.0/appsettings.Development.json
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 2/rockstar-webapi/bin/Debug/net5.0/appsettings.json
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 2/rockstar-webapi/bin/Debug/net5.0/rockstar-webapi.deps.json
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 2/rockstar-webapi/bin/Debug/net5.0/rockstar-webapi.runtimeconfig.json
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 2/rockstar-webapi/bin/Debug/net5.0/rockstar-webapi.runtimeconfig.dev.json
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 2/rockstar-webapi/bin/Debug/net5.0/rockstar-webapi.dll
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 2/rockstar-webapi/bin/Debug/net5.0/ref/rockstar-webapi.dll
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 2/rockstar-webapi/bin/Debug/net5.0/rockstar-webapi.pdb
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 2/rockstar-webapi/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 2/rockstar-webapi/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 2/rockstar-webapi/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 2/rockstar-webapi/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 2/rockstar-webapi/obj/Debug/net5.0/rockstar-webapi.csproj.AssemblyReference.cache
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 2/rockstar-webapi/obj/Debug/net5.0/rockstar-webapi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 2/rockstar-webapi/obj/Debug/net5.0/rockstar-webapi.AssemblyInfoInputs.cache
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 2/rockstar-webapi/obj/Debug/net5.0/rockstar-webapi.AssemblyInfo.cs
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 2/rockstar-webapi/obj/Debug/net5.0/rockstar-webapi.csproj.CoreCompileInputs.cache
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 2/rockstar-webapi/obj/Debug/net5.0/rockstar-webapi.MvcApplicationPartsAssemblyInfo.cs
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 2/rockstar-webapi/obj/Debug/net5.0/rockstar-webapi.MvcApplicationPartsAssemblyInfo.cache
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 2/rockstar-webapi/obj/Debug/net5.0/staticwebassets/rockstar-webapi.StaticWebAssets.Manifest.cache
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 2/rockstar-webapi/obj/Debug/net5.0/staticwebassets/rockstar-webapi.StaticWebAssets.xml
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 2/rockstar-webapi/obj/Debug/net5.0/scopedcss/bundle/rockstar-webapi.styles.css
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 2/rockstar-webapi/obj/Debug/net5.0/rockstar-webapi.RazorTargetAssemblyInfo.cache
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 2/rockstar-webapi/obj/Debug/net5.0/rockstar-webapi.csproj.CopyComplete
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 2/rockstar-webapi/obj/Debug/net5.0/rockstar-webapi.dll
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 2/rockstar-webapi/obj/Debug/net5.0/ref/rockstar-webapi.dll
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 2/rockstar-webapi/obj/Debug/net5.0/rockstar-webapi.pdb
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 2/rockstar-webapi/obj/Debug/net5.0/rockstar-webapi.genruntimeconfig.cache
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 3/Rockstar App/rockstar-webapi/bin/Debug/net5.0/appsettings.Development.json
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 3/Rockstar App/rockstar-webapi/bin/Debug/net5.0/appsettings.json
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 3/Rockstar App/rockstar-webapi/bin/Debug/net5.0/rockstar-webapi.deps.json
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 3/Rockstar App/rockstar-webapi/bin/Debug/net5.0/rockstar-webapi.runtimeconfig.json
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 3/Rockstar App/rockstar-webapi/bin/Debug/net5.0/rockstar-webapi.runtimeconfig.dev.json
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 3/Rockstar App/rockstar-webapi/bin/Debug/net5.0/rockstar-webapi.dll
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 3/Rockstar App/rockstar-webapi/bin/Debug/net5.0/ref/rockstar-webapi.dll
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 3/Rockstar App/rockstar-webapi/bin/Debug/net5.0/rockstar-webapi.pdb
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 3/Rockstar App/rockstar-webapi/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 3/Rockstar App/rockstar-webapi/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 3/Rockstar App/rockstar-webapi/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 3/Rockstar App/rockstar-webapi/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 3/Rockstar App/rockstar-webapi/obj/Debug/net5.0/rockstar-webapi.csproj.AssemblyReference.cache
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 3/Rockstar App/rockstar-webapi/obj/Debug/net5.0/rockstar-webapi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 3/Rockstar App/rockstar-webapi/obj/Debug/net5.0/rockstar-webapi.AssemblyInfoInputs.cache
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 3/Rockstar App/rockstar-webapi/obj/Debug/net5.0/rockstar-webapi.AssemblyInfo.cs
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 3/Rockstar App/rockstar-webapi/obj/Debug/net5.0/rockstar-webapi.csproj.CoreCompileInputs.cache
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 3/Rockstar App/rockstar-webapi/obj/Debug/net5.0/rockstar-webapi.MvcApplicationPartsAssemblyInfo.cs
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 3/Rockstar App/rockstar-webapi/obj/Debug/net5.0/rockstar-webapi.MvcApplicationPartsAssemblyInfo.cache
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 3/Rockstar App/rockstar-webapi/obj/Debug/net5.0/staticwebassets/rockstar-webapi.StaticWebAssets.Manifest.cache
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 3/Rockstar App/rockstar-webapi/obj/Debug/net5.0/staticwebassets/rockstar-webapi.StaticWebAssets.xml
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 3/Rockstar App/rockstar-webapi/obj/Debug/net5.0/scopedcss/bundle/rockstar-webapi.styles.css
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 3/Rockstar App/rockstar-webapi/obj/Debug/net5.0/rockstar-webapi.RazorTargetAssemblyInfo.cache
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 3/Rockstar App/rockstar-webapi/obj/Debug/net5.0/rockstar-webapi.csproj.CopyComplete
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 3/Rockstar App/rockstar-webapi/obj/Debug/net5.0/rockstar-webapi.dll
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 3/Rockstar App/rockstar-webapi/obj/Debug/net5.0/ref/rockstar-webapi.dll
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 3/Rockstar App/rockstar-webapi/obj/Debug/net5.0/rockstar-webapi.pdb
+/Users/deepgamit/NEU/Fall 2021/CSYE 7220 DevOps/CSYE7220/Assignment 3/Rockstar App/rockstar-webapi/obj/Debug/net5.0/rockstar-webapi.genruntimeconfig.cache
+C:\Users\dheer\Downloads\Assignment-3-main\Assignment-3-main\Rockstar App_lab\Rockstar App\rockstar-webapi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\dheer\Downloads\Assignment-3-main\Assignment-3-main\Rockstar App_lab\Rockstar App\rockstar-webapi\bin\Debug\net5.0\appsettings.json
+C:\Users\dheer\Downloads\Assignment-3-main\Assignment-3-main\Rockstar App_lab\Rockstar App\rockstar-webapi\bin\Debug\net5.0\rockstar-webapi.exe
+C:\Users\dheer\Downloads\Assignment-3-main\Assignment-3-main\Rockstar App_lab\Rockstar App\rockstar-webapi\bin\Debug\net5.0\rockstar-webapi.deps.json
+C:\Users\dheer\Downloads\Assignment-3-main\Assignment-3-main\Rockstar App_lab\Rockstar App\rockstar-webapi\bin\Debug\net5.0\rockstar-webapi.runtimeconfig.json
+C:\Users\dheer\Downloads\Assignment-3-main\Assignment-3-main\Rockstar App_lab\Rockstar App\rockstar-webapi\bin\Debug\net5.0\rockstar-webapi.runtimeconfig.dev.json
+C:\Users\dheer\Downloads\Assignment-3-main\Assignment-3-main\Rockstar App_lab\Rockstar App\rockstar-webapi\bin\Debug\net5.0\rockstar-webapi.dll
+C:\Users\dheer\Downloads\Assignment-3-main\Assignment-3-main\Rockstar App_lab\Rockstar App\rockstar-webapi\bin\Debug\net5.0\ref\rockstar-webapi.dll
+C:\Users\dheer\Downloads\Assignment-3-main\Assignment-3-main\Rockstar App_lab\Rockstar App\rockstar-webapi\bin\Debug\net5.0\rockstar-webapi.pdb
+C:\Users\dheer\Downloads\Assignment-3-main\Assignment-3-main\Rockstar App_lab\Rockstar App\rockstar-webapi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\dheer\Downloads\Assignment-3-main\Assignment-3-main\Rockstar App_lab\Rockstar App\rockstar-webapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\dheer\Downloads\Assignment-3-main\Assignment-3-main\Rockstar App_lab\Rockstar App\rockstar-webapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\dheer\Downloads\Assignment-3-main\Assignment-3-main\Rockstar App_lab\Rockstar App\rockstar-webapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\dheer\Downloads\Assignment-3-main\Assignment-3-main\Rockstar App_lab\Rockstar App\rockstar-webapi\obj\Debug\net5.0\rockstar-webapi.csproj.AssemblyReference.cache
+C:\Users\dheer\Downloads\Assignment-3-main\Assignment-3-main\Rockstar App_lab\Rockstar App\rockstar-webapi\obj\Debug\net5.0\rockstar-webapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dheer\Downloads\Assignment-3-main\Assignment-3-main\Rockstar App_lab\Rockstar App\rockstar-webapi\obj\Debug\net5.0\rockstar-webapi.AssemblyInfoInputs.cache
+C:\Users\dheer\Downloads\Assignment-3-main\Assignment-3-main\Rockstar App_lab\Rockstar App\rockstar-webapi\obj\Debug\net5.0\rockstar-webapi.AssemblyInfo.cs
+C:\Users\dheer\Downloads\Assignment-3-main\Assignment-3-main\Rockstar App_lab\Rockstar App\rockstar-webapi\obj\Debug\net5.0\rockstar-webapi.csproj.CoreCompileInputs.cache
+C:\Users\dheer\Downloads\Assignment-3-main\Assignment-3-main\Rockstar App_lab\Rockstar App\rockstar-webapi\obj\Debug\net5.0\rockstar-webapi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dheer\Downloads\Assignment-3-main\Assignment-3-main\Rockstar App_lab\Rockstar App\rockstar-webapi\obj\Debug\net5.0\rockstar-webapi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dheer\Downloads\Assignment-3-main\Assignment-3-main\Rockstar App_lab\Rockstar App\rockstar-webapi\obj\Debug\net5.0\staticwebassets\rockstar-webapi.StaticWebAssets.Manifest.cache
+C:\Users\dheer\Downloads\Assignment-3-main\Assignment-3-main\Rockstar App_lab\Rockstar App\rockstar-webapi\obj\Debug\net5.0\staticwebassets\rockstar-webapi.StaticWebAssets.xml
+C:\Users\dheer\Downloads\Assignment-3-main\Assignment-3-main\Rockstar App_lab\Rockstar App\rockstar-webapi\obj\Debug\net5.0\scopedcss\bundle\rockstar-webapi.styles.css
+C:\Users\dheer\Downloads\Assignment-3-main\Assignment-3-main\Rockstar App_lab\Rockstar App\rockstar-webapi\obj\Debug\net5.0\rockstar-webapi.RazorTargetAssemblyInfo.cache
+C:\Users\dheer\Downloads\Assignment-3-main\Assignment-3-main\Rockstar App_lab\Rockstar App\rockstar-webapi\obj\Debug\net5.0\rockstar-webapi.csproj.CopyComplete
+C:\Users\dheer\Downloads\Assignment-3-main\Assignment-3-main\Rockstar App_lab\Rockstar App\rockstar-webapi\obj\Debug\net5.0\rockstar-webapi.dll
+C:\Users\dheer\Downloads\Assignment-3-main\Assignment-3-main\Rockstar App_lab\Rockstar App\rockstar-webapi\obj\Debug\net5.0\ref\rockstar-webapi.dll
+C:\Users\dheer\Downloads\Assignment-3-main\Assignment-3-main\Rockstar App_lab\Rockstar App\rockstar-webapi\obj\Debug\net5.0\rockstar-webapi.pdb
+C:\Users\dheer\Downloads\Assignment-3-main\Assignment-3-main\Rockstar App_lab\Rockstar App\rockstar-webapi\obj\Debug\net5.0\rockstar-webapi.genruntimeconfig.cache
+C:\Users\dheer\OneDrive\Desktop\CSYE7220\Assignment-3\Rockstar App\rockstar-webapi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\dheer\OneDrive\Desktop\CSYE7220\Assignment-3\Rockstar App\rockstar-webapi\bin\Debug\net5.0\appsettings.json
+C:\Users\dheer\OneDrive\Desktop\CSYE7220\Assignment-3\Rockstar App\rockstar-webapi\bin\Debug\net5.0\rockstar-webapi.exe
+C:\Users\dheer\OneDrive\Desktop\CSYE7220\Assignment-3\Rockstar App\rockstar-webapi\bin\Debug\net5.0\rockstar-webapi.deps.json
+C:\Users\dheer\OneDrive\Desktop\CSYE7220\Assignment-3\Rockstar App\rockstar-webapi\bin\Debug\net5.0\rockstar-webapi.runtimeconfig.json
+C:\Users\dheer\OneDrive\Desktop\CSYE7220\Assignment-3\Rockstar App\rockstar-webapi\bin\Debug\net5.0\rockstar-webapi.runtimeconfig.dev.json
+C:\Users\dheer\OneDrive\Desktop\CSYE7220\Assignment-3\Rockstar App\rockstar-webapi\bin\Debug\net5.0\rockstar-webapi.dll
+C:\Users\dheer\OneDrive\Desktop\CSYE7220\Assignment-3\Rockstar App\rockstar-webapi\bin\Debug\net5.0\ref\rockstar-webapi.dll
+C:\Users\dheer\OneDrive\Desktop\CSYE7220\Assignment-3\Rockstar App\rockstar-webapi\bin\Debug\net5.0\rockstar-webapi.pdb
+C:\Users\dheer\OneDrive\Desktop\CSYE7220\Assignment-3\Rockstar App\rockstar-webapi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\dheer\OneDrive\Desktop\CSYE7220\Assignment-3\Rockstar App\rockstar-webapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\dheer\OneDrive\Desktop\CSYE7220\Assignment-3\Rockstar App\rockstar-webapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\dheer\OneDrive\Desktop\CSYE7220\Assignment-3\Rockstar App\rockstar-webapi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\dheer\OneDrive\Desktop\CSYE7220\Assignment-3\Rockstar App\rockstar-webapi\obj\Debug\net5.0\rockstar-webapi.csproj.AssemblyReference.cache
+C:\Users\dheer\OneDrive\Desktop\CSYE7220\Assignment-3\Rockstar App\rockstar-webapi\obj\Debug\net5.0\rockstar-webapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dheer\OneDrive\Desktop\CSYE7220\Assignment-3\Rockstar App\rockstar-webapi\obj\Debug\net5.0\rockstar-webapi.AssemblyInfoInputs.cache
+C:\Users\dheer\OneDrive\Desktop\CSYE7220\Assignment-3\Rockstar App\rockstar-webapi\obj\Debug\net5.0\rockstar-webapi.AssemblyInfo.cs
+C:\Users\dheer\OneDrive\Desktop\CSYE7220\Assignment-3\Rockstar App\rockstar-webapi\obj\Debug\net5.0\rockstar-webapi.csproj.CoreCompileInputs.cache
+C:\Users\dheer\OneDrive\Desktop\CSYE7220\Assignment-3\Rockstar App\rockstar-webapi\obj\Debug\net5.0\rockstar-webapi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dheer\OneDrive\Desktop\CSYE7220\Assignment-3\Rockstar App\rockstar-webapi\obj\Debug\net5.0\rockstar-webapi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dheer\OneDrive\Desktop\CSYE7220\Assignment-3\Rockstar App\rockstar-webapi\obj\Debug\net5.0\staticwebassets\rockstar-webapi.StaticWebAssets.Manifest.cache
+C:\Users\dheer\OneDrive\Desktop\CSYE7220\Assignment-3\Rockstar App\rockstar-webapi\obj\Debug\net5.0\staticwebassets\rockstar-webapi.StaticWebAssets.xml
+C:\Users\dheer\OneDrive\Desktop\CSYE7220\Assignment-3\Rockstar App\rockstar-webapi\obj\Debug\net5.0\scopedcss\bundle\rockstar-webapi.styles.css
+C:\Users\dheer\OneDrive\Desktop\CSYE7220\Assignment-3\Rockstar App\rockstar-webapi\obj\Debug\net5.0\rockstar-webapi.RazorTargetAssemblyInfo.cache
+C:\Users\dheer\OneDrive\Desktop\CSYE7220\Assignment-3\Rockstar App\rockstar-webapi\obj\Debug\net5.0\rockstar-webapi.csproj.CopyComplete
+C:\Users\dheer\OneDrive\Desktop\CSYE7220\Assignment-3\Rockstar App\rockstar-webapi\obj\Debug\net5.0\rockstar-webapi.dll
+C:\Users\dheer\OneDrive\Desktop\CSYE7220\Assignment-3\Rockstar App\rockstar-webapi\obj\Debug\net5.0\ref\rockstar-webapi.dll
+C:\Users\dheer\OneDrive\Desktop\CSYE7220\Assignment-3\Rockstar App\rockstar-webapi\obj\Debug\net5.0\rockstar-webapi.pdb
+C:\Users\dheer\OneDrive\Desktop\CSYE7220\Assignment-3\Rockstar App\rockstar-webapi\obj\Debug\net5.0\rockstar-webapi.genruntimeconfig.cache
